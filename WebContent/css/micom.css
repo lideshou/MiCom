@@ -1,0 +1,55 @@
+@charset "UTF-8";
+html{
+    font: 12px "宋体";
+}
+a{
+    color: #000000;
+}
+.top{
+	height:40px;
+	background-color:rgb(51,51,51);
+	border-top:1px solid rgb(182,180,182);
+}
+.top_page{
+	width:1228px;
+	margin:0 auto;
+}
+.top a{
+	color:rgb(176,176,176);
+}
+.top_page_l ul li{
+	float:left;
+	line-height:40px;
+}
+.top_page_l ul li a:hover{
+	color:white;
+}
+.sep{
+	margin:0 0.5em;
+	color:#b0b0b0;
+}
+.top_page_r{
+	width:273px;
+}
+.top_page_r_l li{
+	float:left;
+	line-height:40px;
+}
+.top_page_r_r{
+	float: right;
+    width: 120px;
+    height:40px;
+    text-align: center;
+    background: #424242;
+    display: inline-block;
+	line-height: 40px;
+}
+.top_page_r_r:hover{
+	background-color: #fdffff;
+    color: #ff532e;
+}
+.header{
+	height:100px;
+	width:1228px;
+	margin:0 auto;
+}

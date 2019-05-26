@@ -1,0 +1,102 @@
+@charset "UTF-8";
+.seckill{
+	height:340px;
+}
+.seckill_time{
+	height:100%;
+	width:236px;
+	background-color:rgb(241,237,237);
+	margin-right:14px;
+	text-align:center;
+	border-top:1px solid red;
+}
+.time{
+	font-size:22px;
+	font-weight:bold;
+	color:red;
+	margin-top:58px;
+}
+.seckill_time img{
+	margin-top:27px;
+}
+.overtime{
+	font-size:15px;
+	color:rgb(97,96,96);
+	margin-top:15px;
+}
+.countdown{
+    margin: 28px auto 0;
+    width: 190px;
+}
+.timebox{
+	width:47px;
+	height:47px;
+	background-color:rgb(95,87,80);
+	float:left;
+	line-height: 47px;
+    font-size: 24px;
+    color: #fdffff;
+}
+.box-interval{
+    float:left;
+    width: 15px;
+    height: 46px;
+    line-height: 46px;
+    font-size: 24px;
+    color: #5f5750;
+    font-weight: bolder;
+}
+.seckill_item{
+	text-align:center;
+	height:340px;
+	width:978px;
+}
+.item_common{
+	background-color:rgb(250,250,250);
+	margin-right:11px;
+	width:236px;
+	height:340px;
+	float:left;
+	border-top: 1px solid yellow;
+}
+.item4{
+	background-color:rgb(250,250,250);
+	width:236px;
+	height:340px;
+	border-top: 1px solid yellow;
+}
+.seckill-img{
+	width: 160px;
+    margin: 0 auto 22px;
+    padding-top: 50px;
+}
+.flag{
+	width:70px;
+	height:15px;
+	background-color:red;
+	color:white;
+	font-size: 15px;
+	margin: 0 auto;
+}
+.share-h3{
+	color: rgb(33,33,33);
+	font-size: 15px;
+}
+.p-3{
+	font-size: 10px;
+	color: rgb(176,176,176);
+	margin: 12px 0;
+}
+.p-4{
+	color: red;
+	font-size: 15px;
+}
+.original-price{
+	color: #b0b0b0;
+	text-decoration: line-through;
+}
+.helo_phone{
+	height: 120px;
+	margin-top: 42px;
+	margin-bottom: 33px;
+}

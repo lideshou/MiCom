@@ -1,0 +1,11 @@
+@charset "utf-8";
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.center{
+	width:1228px;
+	margin:0 auto;
+}
